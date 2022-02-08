@@ -1,12 +1,13 @@
-### <h3 align="left"><img src="assets/welcome-sm3.gif" width="100px"/> dear Visitor,</h3>
 <!--
-My name is ***Girts*** and it is my pleasure to share with you some bits and pieces of my exciting software development journey.
+### <h3 align="left"><img src="assets/welcome-sm3.gif" width="100px"/> dear Visitor,</h3>
 
-I am an aspiring full-stack C#/.NET developer with an interest in business intelligence and data management. My professional background spans across banking and capital markets industries where I have had an unique opportunity to explore the ins and outs of securities markets, while thoroughly studying business needs, adjusting to robust risk management and regulatory requirements and leading a dedicated team of professionals.
+<img src="/assets/balloon-hi.png" height="35px"> My name is ***Girts*** and it is my pleasure to share with you some bits and pieces of my exciting software development journey.
 
-I like to explore and get to the bottom of concepts, problems and processes and I absolutely love that feeling when you have created something new, solved a problem or helped to build a solution. That is why coding feels so great for me, as it encapsulates all of the above and more. And the most fun part is that there are no boundaries for continous growth and learning. It simply cannot get boring!
+<img src="/assets/balloon-who3.png" height="35px"> I am an aspiring full-stack C#/.NET developer with an interest in business intelligence and data management. My professional background spans across banking and capital markets industries where I have had an unique opportunity to explore the ins and outs of securities markets, while thoroughly studying business needs, adjusting to robust risk management and regulatory requirements and leading a dedicated team of professionals.
 
-You can contact me here: 
+<img src="/assets/balloon-why2.png" height="35px"> I like to explore and get to the bottom of concepts, problems and processes and I absolutely love that feeling when you have created something new, solved a problem or helped to build a solution. That is why coding feels so great for me, as it encapsulates all of the above and more. And the most fun part is that there are no boundaries for continous growth and learning. It simply cannot get boring!
+
+Feel free to contact me here:  
 [![Linkedin Badge](https://img.shields.io/badge/-Girts%20Varna-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girts-varna/)](https://www.linkedin.com/in/girts-varna/)
 [![Gmail Badge](https://img.shields.io/badge/-gv****@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:gvarna@gmail.com)](mailto:gvarna@gmail.com)
 
@@ -45,7 +46,7 @@ You can contact me here:
 
 
 ---
-<!--
+
 ### &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girtsva&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
