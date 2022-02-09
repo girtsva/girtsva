@@ -34,7 +34,7 @@ Feel free to contact me here:
 <img src="assets/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
 <img src="assets/git-original.svg" alt="Git" width="50" height="50"/> 
 <img src="assets/github-original2.svg" alt="GitHub" width="50" height="50"/> 
-<img src="assets/visualstudio-plain.svg" alt="VisualStudio" width="50" height="50"/> 
+<img src="assets/visualstudio-plain.svg" alt="VisualStudio" width="50" height="50"/>  
 <img src="assets/vscode-original.svg" alt="VisualStudioSCode" width="50" height="50"/> 
 <img src="assets/html5-original.svg" alt="HTML5" width="50" height="50"/> 
 <img src="assets/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/> 
