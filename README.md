@@ -49,7 +49,7 @@ Feel free to contact me here:
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girtsva&hide_title=true&layout=compact,html,css&theme=tokyonight)](https://github.com/girtsva?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girtsva&hide_title=true&layout=compact&theme=tokyonight)](https://github.com/girtsva?tab=repositories)
 
 
 
