@@ -1,5 +1,5 @@
-<!--
-### <h3 align="left"><img src="assets/welcome-sm3.gif" width="100px"/> dear Visitor,</h3>
+
+### <h3 align="left"><img src="assets/welcome-w.gif" width="100px"/> dear Visitor,</h3>
 
 <img src="/assets/balloon-hi.png" height="35px"> My name is ***Girts*** and it is my pleasure to share with you some bits and pieces of my exciting software development journey.
 
@@ -29,11 +29,11 @@ Feel free to contact me here:
 
 <img src="assets/csharp-original.svg" alt="CSharp" width="50" height="50"/> <img src="assets/dot-net-plain-wordmark.svg" alt="DotNet" width="50" height="50"/> 
 <img src="assets/dotnetcore-original.svg" alt="DotNetCore" width="50" height="50"/> 
-<img src="assets/git-original.svg" alt="Git" width="50" height="50"/> 
-<img src="assets/github-original2.svg" alt="GitHub" width="50" height="50"/> 
 <img src="assets/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="assets/typescript-original.svg" alt="TypeScript" width="50" height="50"/> 
 <img src="assets/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
+<img src="assets/git-original.svg" alt="Git" width="50" height="50"/> 
+<img src="assets/github-original2.svg" alt="GitHub" width="50" height="50"/> 
 <img src="assets/visualstudio-plain.svg" alt="VisualStudio" width="50" height="50"/> 
 <img src="assets/vscode-original.svg" alt="VisualStudioSCode" width="50" height="50"/> 
 <img src="assets/html5-original.svg" alt="HTML5" width="50" height="50"/> 
@@ -51,23 +51,6 @@ Feel free to contact me here:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girtsva&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=girtsva&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=girtsva.girtsva)
-
--->
-<!--
-**girtsva/girtsva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-👋
--->
