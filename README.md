@@ -7,9 +7,17 @@
 
 <img src="/assets/balloon-why2.png" height="35px"> I like to explore and get to the bottom of concepts, problems and processes and I absolutely love that feeling when you have created something new, solved a problem or helped to build a solution. That is why coding feels so great for me, as it encapsulates all of the above and more. And the most fun part is that there are no boundaries for continous growth and learning. It simply cannot get boring!
 
-Feel free to contact me here:  
+Feel free to contact me here: 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Girts%20Varna-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/girts-varna/)](https://www.linkedin.com/in/girts-varna/)
 [![Gmail Badge](https://img.shields.io/badge/-gv****@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:gvarna@gmail.com)](mailto:gvarna@gmail.com)
+
+---
+### <img src="/assets/projects-folder.png" height="25px"> **My Projects**
+
+<img src="https://github.com/girtsva/sudoku/blob/main/Sudoku/sudoku.ico" height="20px"> [Sudoku Game (C#/.NET, WinForms)](https://github.com/girtsva/sudoku)  
+✈ [Flight Planner (ASP.NET Core, HTTP & Web API)](https://github.com/girtsva/flight-planner)  
+🛒 [Shopify (TypeScript, SQL)](https://github.com/girtsva/sql-training/tree/main/sql-shopify)
 
 ---
 ### <img src="/assets/skills3.png" height="25px"> **My Skills**
@@ -17,8 +25,8 @@ Feel free to contact me here:
 - C#/.NET
 - Relational Databases & SQL
 - Unit Testing, Test Driven Development
-- HTTP & Web API Basics
 - TypeScript & NodeJS basics
+- HTTP & Web API Basics
 - Git
 - Clean Code, SOLID
 - Design Patterns
