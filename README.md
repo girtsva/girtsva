@@ -28,7 +28,7 @@ Feel free to contact me here:
 - Unit Testing, Test Driven Development
 - TypeScript & NodeJS basics
 - HTTP & Web API Basics
-- Git
+- Git & GitHub
 - Clean Code, SOLID
 - Design Patterns
 - HTML & CSS, Angular
