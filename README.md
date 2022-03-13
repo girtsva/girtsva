@@ -15,8 +15,8 @@ Feel free to contact me here:
 ---
 ### <img src="/assets/projects-folder.png" height="25px"> **My Projects**
 
+✈ [Flight Planner (ASP.NET Core, HTTP & Web API, SQL, Angular)](https://github.com/girtsva/flight-planner/tree/3rd_iteration_scalability)  
 <img src="https://github.com/girtsva/sudoku/blob/main/Sudoku/sudoku.ico" height="20px"> [Sudoku Game (C#/.NET, WinForms)](https://github.com/girtsva/sudoku)  
-✈ [Flight Planner (ASP.NET Core, HTTP & Web API)](https://github.com/girtsva/flight-planner)  
 🛒 [Shopify (TypeScript, SQL)](https://github.com/girtsva/sql-training/tree/main/sql-shopify)  
 <img src="https://github.com/girtsva/memento/blob/master/MementoDesignPattern/rollback.ico" height="18px"> [Memento Design Pattern (C#/.NET, WinForms)](https://github.com/girtsva/memento)  
 
